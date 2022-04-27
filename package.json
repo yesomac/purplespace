@@ -1,0 +1,36 @@
+{
+    "name": "purplespace",
+    "displayName": "PurpleSpace",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "keywords": [
+        "Themes",
+        "PurpleSpace",
+        "PurpleSpaceII"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PurpleSpace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpace-color-theme.json"
+            },
+            {
+                "label": "PurpleSpaceII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpaceII-color-theme.json"
+            },
+            {
+                "label": "PurpleSpaceLight",
+                "uiTheme": "vs",
+                "path": "./themes/PurpleSpaceLight-color-theme.json"
+            }
+        ]
+    }
+}
