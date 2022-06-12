@@ -28,13 +28,18 @@
                 "path": "./themes/PurpleSpaceII-color-theme.json"
             },
             {
+                "label": "PurpleSpaceIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpaceIII-color-theme.json"
+            },
+            {
                 "label": "PurpleSpaceLight",
                 "uiTheme": "vs",
                 "path": "./themes/PurpleSpaceLight-color-theme.json"
             },
             {
                 "label": "PurpleOnlyDark",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/OnlyDarkPurple-color-theme.json"
             }
         ]
