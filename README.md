@@ -1,11 +1,11 @@
 # PurpleSpace
 
 ****New Themes****
-
+### Purple IV
+![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purple4.png?raw=true)
 ---
 
 ### PurpleSpace
-![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purple.png?raw=true)
 
 ![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purpleII.png?raw=true)
 
@@ -28,23 +28,34 @@
 
   * JetBrains Mono - https://www.jetbrains.com/lp/mono/
 
-**Icons:** Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+**Icons:** 
+  * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+  * Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
 
 ---
 More Themes
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.inspiration
+* Inspiration - https://marketplace.visualstudio.com/items?itemName=YesCode.inspiration
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
+* Shades https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
+* GraySpace https://marketplace.visualstudio.com/items?itemName=YesCode.grayspace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+* PurpleSpace https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+* OnlyDark Theme https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
+* SoberTheme https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
+* GreenSpace https://marketplace.visualstudio.com/items?itemName=YesCode.greenspace
 
-* https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+* Neutral https://marketplace.visualstudio.com/items?itemName=YesCode.neutral
+
+* Morita https://marketplace.visualstudio.com/items?itemName=YesCode.morita
+
+* DarkSpace https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
+
+* BlueSpace https://marketplace.visualstudio.com/items?itemName=YesCode.bluespace
+
+* TwentyFour https://marketplace.visualstudio.com/items?itemName=YesCode.twentyFour
