@@ -2,7 +2,7 @@
     "name": "purplespace",
     "displayName": "PurpleSpace",
     "description": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -10,6 +10,7 @@
         "Themes",
         "PurpleSpace",
         "PurpleSpaceII",
+        "PurpleSpaceIV",
         "PurpleOnlyDark"
     ],
     "categories": [
@@ -36,6 +37,11 @@
                 "label": "PurpleSpaceLight",
                 "uiTheme": "vs",
                 "path": "./themes/PurpleSpaceLight-color-theme.json"
+            },
+            {
+                "label": "PurpleSpace IV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpace-IV-color-theme.json"
             },
             {
                 "label": "PurpleOnlyDark",
