@@ -1,24 +1,24 @@
-# ***PurpleSpace***
-
-**New Themes**
----
-# PurpleSpace III
-![This is an image](https://github.com/yesomac/purplespace/blob/main/img/purple_III.png?raw=true)
-
-# PurpleLight
-![This an image](https://github.com/yesomac/purplespace/blob/main/img/purple_li.png?raw=true)
-
----
-
 # PurpleSpace
+
+****New Themes****
+
+---
+
+### PurpleSpace
 ![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purple.png?raw=true)
 
 ![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purpleII.png?raw=true)
 
-# PurpleSpaceII
+### PurpleSpaceII
 ![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purpleII.png?raw=true)
 
-# PurpleOnlyDark
+### PurpleSpace III
+![This is an image](https://github.com/yesomac/purplespace/blob/main/img/purple_III.png?raw=true)
+
+### PurpleLight
+![This an image](https://github.com/yesomac/purplespace/blob/main/img/purple_li.png?raw=true)
+
+### PurpleOnlyDark
 ![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purpleD.png?raw=true)
 
 ---
