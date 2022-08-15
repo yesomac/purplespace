@@ -18,9 +18,6 @@
 ### PurpleLight
 ![This an image](https://github.com/yesomac/purplespace/blob/main/img/purple_li.png?raw=true)
 
-### PurpleOnlyDark
-![This is a image](https://github.com/yesomac/purplespace/blob/main/img/purpleD.png?raw=true)
-
 ---
 **Fonts:** 
 
