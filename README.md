@@ -6,16 +6,16 @@
 ---
 
 ---
-**Fonts:** 
+    **Fonts:** 
 
-  * Comic Mono - https://dtinth.github.io/comic-mono-font/
+      * Comic Mono - https://dtinth.github.io/comic-mono-font/
 
-  * JetBrains Mono - https://www.jetbrains.com/lp/mono/
+      * JetBrains Mono - https://www.jetbrains.com/lp/mono/
 
-**Icons:** 
-  * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+    **Icons:** 
+      * Symbols - https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
 
-  * Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
+      * Simple Icons - https://marketplace.visualstudio.com/items?itemName=Comdec.simple-icons
 
 ---
 More Themes
