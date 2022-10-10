@@ -2,7 +2,7 @@
     "name": "purplespace",
     "displayName": "PurpleSpace",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -22,6 +22,11 @@
                 "label": "PurpleSpace",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PurpleSpace-color-theme.json"
+            },
+            {
+                "label": "PurpleSpace Sober",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpace-Sober-color-theme.json"
             },
             {
                 "label": "PurpleSpaceII",
