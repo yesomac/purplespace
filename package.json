@@ -8,10 +8,8 @@
     },
     "keywords": [
         "Themes",
-        "PurpleSpace",
-        "PurpleSpaceII",
-        "PurpleSpaceIV",
-        "PurpleOnlyDark"
+        "Purple",
+        "Dark"
     ],
     "categories": [
         "Themes"
@@ -52,6 +50,16 @@
                 "label": "PurpleSpace IV",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PurpleSpace-IV-color-theme.json"
+            },
+            {
+                "label": "PurpleSpace IV Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpace-Bordered-IV-color-theme.json"
+            },
+            {
+                "label": "PurpleSpace IV Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PurpleSpace-Dark-IV-color-theme.json"
             },
             {
                 "label": "PurpleOnlyDark",
