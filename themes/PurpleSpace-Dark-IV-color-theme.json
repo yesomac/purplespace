@@ -77,7 +77,7 @@
     //statusBar
     "statusBar.background": "#09060e",
     "statusBar.noFolderBackground": "#09060e",
-    "statusBar.debuggingBackground": "#400447",
+    "statusBar.debuggingBackground": "#230447",
     "statusBar.debuggingForeground": "#fff",
     "banner.background": "#33293f",
     "statusBar.foreground": "#cdc3f1",
