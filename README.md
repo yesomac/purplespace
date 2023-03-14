@@ -1,6 +1,6 @@
 # PurpleSpace
 
-Today | The next level of productivity <https://today-app-2a552.web.app/>
+Today | The next level of productivity <https://https://today-63513.web.app/>
 ---
 
 ### Purple IV
